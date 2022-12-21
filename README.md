@@ -1,6 +1,6 @@
-# Oyun ve Uygulama Akademisi | Unity Başlangıç Eğitimi (2D Proje)
-## Unity versiyonu: 2020.3.32f1
-## (Eğitimdeki haline göre ufak değişiklikler olabilir)
+## Oyun ve Uygulama Akademisi 2021-2022 | Unity Başlangıç Eğitimi (2D Proje)
+### Unity versiyonu: 2020.3.32f1
+### (Eğitimdeki haline göre ufak değişiklikler olabilir)
 
 ![image](https://user-images.githubusercontent.com/35369764/209021480-0110f695-cbce-4fb5-a1b4-c625101e3589.png)
 
